@@ -7,5 +7,4 @@ var sortNumber = function(number) {
 	});
 };
 
-var number = [19, 3, 82, 31, 24, 21];
-console.log(number);
+var number = [19, 3, 82, 5, 24, 21];
